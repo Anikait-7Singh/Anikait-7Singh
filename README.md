@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anikait-7Singh
-- 👀 I’m interested in Data Science 
+- 👀 I’m a Data Science aspirant
 - 🌱 I’m currently Studying in school
 - 📫 You can reach me through my github account or linkdin www.linkedin.com/in/anikait-singh07032009
 - 😄 Pronouns: He
